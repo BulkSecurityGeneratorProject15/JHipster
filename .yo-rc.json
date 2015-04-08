@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "jHip",
+    "packageName": "com.brettlabz.myapp",
+    "packageFolder": "com/brettlabz/myapp",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "7c1a38da3fd53953cdae4210d6881c818789bf84"
+  }
+}
